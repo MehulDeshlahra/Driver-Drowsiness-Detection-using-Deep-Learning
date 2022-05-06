@@ -7,7 +7,9 @@ Get the MRL Eye Dataset
 Open up the terminal and type -
 
 $git clone https://github.com/MehulDeshlahra/Driver-Drowsiness-Detection-using-Deep-Learning.git
+
 $cd Drowsiness-Detection-in-Drivers-using-Deep-Learning
+
 $jupyter notebook
 
 Dataset link- http://mrl.cs.vsb.cz/eyedataset
